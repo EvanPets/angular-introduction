@@ -32,7 +32,10 @@ export class ListGroupMenuComponent {
       routerLink: 'http-client-example'
     },
     {text: 'User Registration',
-      routerLink: 'user-registration-example'
+      routerLink: 'register'
+    },
+    {text: 'Restricted Content',
+      routerLink: 'restricted-content-example'
     }
   ];
 }
